@@ -1,5 +1,5 @@
 # Trendyol Java Console
-Use Trendyol.com from Java Console usin Trendyol API's with Rest Assured
+Use [Trendyol.com](https://www.trendyol.com/) from Java Console using Trendyol's APIs with Rest Assured
 
 Methods:
 - Search
